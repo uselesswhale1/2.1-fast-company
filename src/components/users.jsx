@@ -98,13 +98,3 @@ const Users = () => {
 }
 
 export default Users
-// const trHTML = e.target.closest('tr') /*.innerHTML = '' */
-// const nameTd = trHTML.closest('td')
-// nameTd.innerHTML = 'jops'
-// let udpUsers = users.map((user) => {
-//   if (user._id != userId) {
-//     return user
-//   }
-// })
-// renderPhrase(udpUsers.length)
-// renderUsers(udpUsers)
